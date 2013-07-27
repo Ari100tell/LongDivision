@@ -1,4 +1,4 @@
-package ua.kpi_java_training.morochenets.module1;
+package ua.smoke.morochenets;
 
 import java.util.Scanner;
 

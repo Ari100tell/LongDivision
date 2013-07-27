@@ -1,7 +1,4 @@
-package ua.kpi_java_training.morochenets.module1.Tests;
-
-import org.junit.BeforeClass;
-import ua.kpi_java_training.morochenets.module1.LongDivision;
+package ua.smoke.morochenets;
 
 import static org.junit.Assert.assertEquals;
 
@@ -15,11 +12,6 @@ import static org.junit.Assert.assertEquals;
 
 public class LongDivisionTest {
     LongDivision longDivision = new LongDivision();
-
-    @BeforeClass
-    public void setUp() throws Exception {
-
-    }
 
     @org.junit.Test
     public void testDivisionInsideColumn() throws Exception {
